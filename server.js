@@ -1,0 +1,1 @@
+console.log('Hallo kita akan membuat RESTful API.(Pada submodul ESLint agak kebingungan ketika harus memperbaiki console agar sesuai dengan ketentuan ESLint)')
